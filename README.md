@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
-  
+  fg
   ### Website made with the following technologies:
   
   ## Frontend:
@@ -24,7 +24,7 @@
   - JWT
   #### Published in: Netlify
 
-  <a href="https://github.com/SantiagoPujana/MyWebPortfolio/blob/main/LICENSE"><b>Ver Porfolio</b></a>
+  <a href=""><b>Ver Porfolio</b></a>
 </div>
 #� �p�o�r�f�o�l�i�o�
 �
